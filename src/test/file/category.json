@@ -1,0 +1,25 @@
+[ {
+  "id" : "3b50c029-0e96-435b-9e80-9aff3fb1b508",
+  "parentId" : "88d53fc7-929d-49c3-a244-52788c9879f8",
+  "customerId" : "88d53fc7-929d-49c3-a244-52788c9879f8",
+  "name" : "Phone",
+  "categoryType" : "EMPTY"
+}, {
+  "id" : "33730457-ebab-4c7f-a8ed-ee15dcee29ad",
+  "parentId" : "51e19df5-c4f4-4763-bdac-f0a57fd5d953",
+  "customerId" : "51e19df5-c4f4-4763-bdac-f0a57fd5d953",
+  "name" : "samsung",
+  "categoryType" : "EMPTY"
+}, {
+  "id" : "b4d2fcbe-af9d-4d74-ad4f-a8b5a266c6ae",
+  "parentId" : "597a2505-1b0c-45b3-9aa9-200d6217f352",
+  "customerId" : "597a2505-1b0c-45b3-9aa9-200d6217f352",
+  "name" : "Phone",
+  "categoryType" : "EMPTY"
+}, {
+  "id" : "8b30dfae-1026-482c-abf5-b6ff86bdc697",
+  "parentId" : "8fcbeb21-6cb2-4f58-9ad1-5eca6bc2a630",
+  "customerId" : "8fcbeb21-6cb2-4f58-9ad1-5eca6bc2a630",
+  "name" : "",
+  "categoryType" : "EMPTY"
+} ]
