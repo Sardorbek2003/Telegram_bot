@@ -7,6 +7,7 @@ import org.example.service.*;
 import java.util.Scanner;
 
 public class ComponentContainer {
+
     //======================scanner=================
     public static Scanner scannerInt = new Scanner(System.in);
     public static Scanner scannerStr = new Scanner(System.in);
