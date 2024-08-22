@@ -17,4 +17,5 @@ public class Product {
     private double price;
     private int quantity;
     private UUID categoryId;
+    private UUID customerId;
 }
