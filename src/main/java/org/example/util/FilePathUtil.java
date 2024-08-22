@@ -7,8 +7,7 @@ public class FilePathUtil {
     public static String getAdmin(){
         return "admin.json";
     }
-    public static String getBasket(){
-        return "basket.json";
+    public static String getBasket(){return "src/test/file/basket.json";
     }
     public static String getCategory(){
         return "src/test/file/category.json";
@@ -17,6 +16,6 @@ public class FilePathUtil {
         return "product.json";
     }
     public static String getCustomer(){
-        return "customer.json";
+        return "src/test/file/customer.json";
     }
 }

@@ -17,6 +17,4 @@ public class Customer {
     private String password;
     private String token;
     private String url;
-
-
 }

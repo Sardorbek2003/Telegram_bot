@@ -14,4 +14,5 @@ public class Main {
         ComponentContainer.categoryController.add(UUID.randomUUID());
       // ComponentContainer.mainController.start();
     }
+
 }
